@@ -1,0 +1,149 @@
+@font-face {
+    font-family: 'icomoon';
+    src:  url('../font/icomoon.eot?qf0fjs');
+    src:  url('../font/icomoon.eot?qf0fjs#iefix') format('embedded-opentype'),
+    url('../font/icomoon.ttf?qf0fjs') format('truetype'),
+    url('../font/icomoon.woff?qf0fjs') format('woff'),
+    url('../font/icomoon.svg?qf0fjs#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: won;
+    src:url('../font/wt040.ttf');
+}
+
+
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    font-size: 45px;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icon8:before {
+    content: "\e906";
+    color: #fff;
+    font-size: 45px;
+}
+.icon-icon10 .path1:before {
+    content: "\e908";
+    color: rgb(16, 11, 5);
+    font-size: 45px;
+}
+.icon-icon10 .path2:before {
+    content: "\e909";
+    margin-left: -1.0029296875em;
+    color: rgb(16, 11, 5);
+    font-size: 45px;
+}
+.icon-icon10 .path3:before {
+    content: "\e90a";
+    margin-left: -1.0029296875em;
+    color: rgb(255, 255, 255);
+    font-size: 45px;
+}
+.icon-icon11:before {
+    content: "\e905";
+    color: #fff;
+    font-size: 45px;
+}
+.icon-icon5:before {
+    content: "\e900";
+    color: #fff;
+    font-size: 55px!important;
+}
+.icon-icon6:before {
+    content: "\e901";
+    color: #fff;
+    font-size: 55px!important;
+}
+.icon-icon7:before {
+    content: "\e902";
+    color: #fff;
+    font-size: 45px!important;
+}
+
+.icon-icon9:before {
+    content: "\e904";
+    color: #fff;
+    font-size: 45px;
+}
+.icon-icon12:before {
+    content: "\e907";
+    color: #fff;
+    font-size: 45px;
+}
+
+.memberChoice li.active .icon-icon5:before,.memberChoice li.active .icon-icon6:before,.memberChoice li.active .icon-icon7:before{
+    color:#f1ab40;
+}
+.personal-menu li.active p,.personal-menu li.active .icon-icon8:before,.personal-menu li.active .icon-icon9:before
+,.personal-menu li.active .icon-icon10:before,.personal-menu li.active .icon-icon11:before
+,.personal-menu li.active .icon-icon12:before
+{
+    color:#f1ab40;
+}
+
+.icon-icon1:before {
+    content: "\e916";
+    color: #fff;
+    font-size: 20px;
+}
+.icon-hp1:before {
+    content: "\e903";
+    color: #fff;
+}
+.icon-hp2:before {
+    content: "\e90b";
+    color: #fff;
+}
+.icon-hp3:before {
+    content: "\e90c";
+    color: #fff;
+}
+.icon-hp4:before {
+    content: "\e90d";
+    color: #fff;
+}
+.icon-hp5:before {
+    content: "\e90e";
+    color: #fff;
+}
+.icon-hp6:before {
+    content: "\e90f";
+    color: #fff;
+}
+.icon-hp7:before {
+    content: "\e910";
+    color: #fff;
+}
+.icon-hp8:before {
+    content: "\e911";
+    color: #fff;
+}
+.icon-hp9:before {
+    content: "\e912";
+    color: #fff;
+}
+.icon-hp10:before {
+    content: "\e913";
+    color: #fff;
+}
+.icon-hp11:before {
+    content: "\e914";
+    color: #fff;
+}
+.icon-hp12:before {
+    content: "\e915";
+    color: #fff;
+}
